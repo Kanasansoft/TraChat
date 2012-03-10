@@ -1,0 +1,64 @@
+div.trachat .error {
+	color: #ff0000;
+}
+
+div.trachat label {
+	color:#000000;
+	padding:0px 3px;
+}
+
+div.trachat #namearea, div.trachat #voicearea {
+	border:1px solid #cccccc;
+	background-color:#eeeeee;
+	border-radius:10px;
+	padding:10px;
+}
+
+div.trachat input[type=button]{
+	border:1px outset #cccccc;
+	background-color:#eeeeee;
+	color:#000000;
+	border-radius:5px;
+	padding:5px 10px;
+}
+
+div.trachat #namebox, div.trachat #voicebox {
+	border:1px solid #cccccc;
+	background-color:#ffffff;
+	color:#000000;
+	width:50%;
+	border-radius:10px;
+	padding:5px;
+}
+
+div.trachat #voicesarea {
+	min-height:20px;
+	border:1px solid #cccccc;
+	background-color:#eeeeee;
+	padding:5px;
+	margin:5px 0px;
+	border-radius:10px;
+}
+
+div.trachat #voicesarea .speak {
+	border:1px solid #cccccc;
+	background-color:#ffffff;
+	padding:5px;
+	margin:5px 0px;
+	border-radius:10px;
+}
+
+div.trachat #voicesarea .speaker {
+	padding:0px 10px 0px 0px;
+	width:200px;
+	display:inline-block;
+	text-align:right;
+	font-weight:bold;
+	color:#000000;
+}
+
+div.trachat #voicesarea .remark {
+	padding:0px 0px 0px 10px;
+	display:inline-block;
+	color:#333333;
+}
